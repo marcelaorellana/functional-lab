@@ -1,0 +1,20 @@
+{
+  "name": "01-state",
+  "version": "1.0.0",
+  "description": "primeros ejercicios de programacion funcional",
+  "main": "lowercaser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Marcela Orellana",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}

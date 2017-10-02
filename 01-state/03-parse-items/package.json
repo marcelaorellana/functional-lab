@@ -1,0 +1,17 @@
+{
+  "name": "03-parse-items",
+  "version": "1.0.0",
+  "description": "Ejercicio parse items",
+  "main": "parse-items.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "M",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}

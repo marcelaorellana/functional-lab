@@ -1,0 +1,17 @@
+{
+  "name": "01-serialize-user",
+  "version": "1.0.0",
+  "description": "ejercicio serielize user",
+  "main": "serialize-user.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "marcela orellana",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}

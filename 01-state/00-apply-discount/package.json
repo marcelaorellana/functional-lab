@@ -1,0 +1,17 @@
+{
+  "name": "00-apply-discount",
+  "version": "1.0.0",
+  "description": "Ejercicio apply discount",
+  "main": "apply-discount.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "marcela orellan",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}

@@ -1,7 +1,12 @@
 {
   "name": "01-state",
+<<<<<<< HEAD
   "version": "1.0.0",
   "description": "primeros ejercicios de programacion funcional",
+=======
+  "version": "0.0.1",
+  "description": "Primeros ejercicios de programacion funcional",
+>>>>>>> functional/master
   "main": "lowercaser.js",
   "directories": {
     "test": "test"
@@ -9,6 +14,7 @@
   "scripts": {
     "test": "jest"
   },
+<<<<<<< HEAD
   "author": "Marcela Orellana",
   "license": "ISC",
   "devDependencies": {
@@ -16,5 +22,18 @@
   },
   "dependencies": {
     "lodash": "^4.17.4"
+=======
+  "keywords": [
+    "functional",
+    "funcional",
+    "programming",
+    "program",
+    "js"
+  ],
+  "author": "Rodrigo Fuenzalida",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.1.0"
+>>>>>>> functional/master
   }
 }
